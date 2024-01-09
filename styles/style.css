@@ -65,3 +65,19 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
+.section{
+    height: 150px;
+    width: 650pxS;
+    margin: 100px;
+    color:black;
+text-align: center;
+font-family: Inter;
+font-size: 32px;
+font-style: normal;
+font-weight: 600;
+line-height: 56px; /* 175% */
+text-transform: capitalize;
+}
+.section.place{
+    color: red;
+}
